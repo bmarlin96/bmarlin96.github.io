@@ -1,5 +1,5 @@
 ---
-title:This is my ORSAMAC Webpage
+title: This is my ORSAMAC Webpage
 description: Here you can find information about the ORSAMAC classes I teach.
 ---
 
