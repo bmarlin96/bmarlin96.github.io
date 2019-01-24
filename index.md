@@ -1,7 +1,7 @@
 ---
-title:New Title
-description: The titles and descriptions can be changed
+title:This is my ORSAMAC Webpage
+description: Here you can find information about the ORSAMAC classes I teach.
 ---
 
-THis is content for stats.
+This is content for Statistics.
 - [Stats Homework solution](/Timeseries/index.md)
