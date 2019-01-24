@@ -4,4 +4,4 @@ description: The titles and descriptions can be changed
 ---
 
 THis is content for stats.
-- [Stats Homework solution](/timeseries/index.md)
+- [Stats Homework solution](/Timeseries/index.md)
