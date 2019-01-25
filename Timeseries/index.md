@@ -8,3 +8,4 @@ Here is time series for my work
 - [Private Construction Time Series Decomposition Jupyter(Jupyter)](PrivateConstructionTimeSeries.ipynb)
 - [Private Construction Time Series Decomposition(HTML)](PrivateConstructionTimeSeries.html)
 - [Here is the link to my R Class and where I have placed the R Code for this assingment)](https://github.com/bmarlin96/Introduction-to-R)
+ -[If you would like to look over the introductory R Course](https://github.com/bmarlin96/Introduction-to-R)
