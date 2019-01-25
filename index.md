@@ -7,7 +7,7 @@ description: Here you can find information about what I am doing in Graduate Sch
 This is the content for our Python Time Series Homework.
 - [Time Series Homework](/Timeseries/index.md)
 
-This is content for Statistics.
+This is content for Statistics.*So Far it is just lesson 1-5 homework*
 - [Stats Homework solution](/Statistics/index.md)
 
 This is a poor place for a repository link.
