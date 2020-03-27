@@ -4,6 +4,9 @@ description: Here you can find information about what I am doing in Graduate Sch
 ---
 ![My Picture](/pics/T.jpg){:height="300px" width="250px"}
 
+This is the content for our R Book that will make me rich.
+- [R Book](/Timeseries/index.md)
+
 This is the content for our Python Time Series Homework.
 - [Time Series Homework](/Timeseries/index.md)
 
